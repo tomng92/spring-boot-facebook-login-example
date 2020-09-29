@@ -1,6 +1,10 @@
 # Spring Boot Facebook Login example
 
-This example is based on Spring Boot's Facebook login demo
+This example is based on Spring Boot's Facebook login demo.
+
+Here is Spring Facebook demo (https://spring.io/blog/2018/03/06/using-spring-security-5-to-integrate-with-oauth-2-secured-services-such-as-facebook-and-github).
+
+(https://spring.io/guides/tutorials/spring-boot-oauth2/).
 
 ## Architecture
 <img src="./images/architecture.png" alt="architecture" />

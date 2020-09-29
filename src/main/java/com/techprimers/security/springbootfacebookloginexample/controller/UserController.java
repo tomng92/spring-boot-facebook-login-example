@@ -13,5 +13,6 @@ public class UserController {
     @GetMapping
     public Principal getUser(Principal user) {
         return user;
+
     }
 }
